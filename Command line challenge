@@ -1,9 +1,9 @@
-cd
-ls
-pwd
-mkdir
-open
-test
-print
-rm -
-cd ..
+cd - means to comand what follows after as a direct instructio
+ls - show all enclosed within the directory or folder etc
+pwd - reports where you are and have come from
+mkdir - makes a new directory/folder
+open - instructs a file new or old to open
+test - instructs a run through
+print - Writes oput wat you want actually printed
+rm - removes file
+cd .. go back a step
